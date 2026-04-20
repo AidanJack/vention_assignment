@@ -79,4 +79,4 @@ npm run dev
 
 ### **Questions?**
 
-If you have any questions about the exercise, please contact [marc-antoine.deragon@vention.cc](mailto:marc-antoine.deragon@vention.cc). Happy coding\!
+If you have any questions about the exercise, please contact [isaac.mills@vention.cc](mailto:isaac.mills@vention.cc). Happy coding\!
