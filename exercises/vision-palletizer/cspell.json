@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Aidan",
+    "appstate",
+    "palletize",
+    "palletizer",
+    "palletizing",
+    "pickpoint",
+    "Polyscope",
+    "rtde",
+    "ur",
+    "URSim",
+    "uvicorn"
+  ],
+  "ignorePaths": [
+    "**/__pycache__/**",
+    "**/.pytest_cache/**",
+    "**/*.pyc"
+  ]
+}

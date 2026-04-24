@@ -1,0 +1,17 @@
+# Core
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# Robot communication
+ur-rtde>=1.5.6
+
+# State machine
+vention-state-machine>=0.4.0
+
+# Math/utilities
+numpy>=1.24.0
+
+# Development
+python-dotenv>=1.0.0
+pytest>=7.4.0
