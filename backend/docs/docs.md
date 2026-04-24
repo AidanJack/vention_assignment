@@ -225,6 +225,14 @@ Tests coordinate transformation between camera and robot frames.
 }
 ```
 
+# Unit Tests
+
+Additional unit tests for the coordinate transformations have been added to 'backend/tests/test_coordinate.py'.
+
+To run the pytest suite (included those for the state machine):
+1. Ensure vention-state-machine is installed.
+2. from 'vision_palletizer' run 'pytest backend/tests/'
+
 # Notes
 
 ## State Machine Rules
